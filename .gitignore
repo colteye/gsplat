@@ -9,6 +9,9 @@ __pycache__/
 # Distribution / packaging
 .Python
 build/
+nerf_llff_data/
+nerf_synthetic/
+temp/
 develop-eggs/
 dist/
 downloads/
